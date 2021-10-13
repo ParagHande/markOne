@@ -4,9 +4,9 @@ var point = 0;
 
 
 console.log("=========================================");
-console.log("          Welcome to my Quiz            ");
+console.log("          Welcome to my Quiz             ");
 console.log("=========================================");
-console.log("   Let's check how well do you kno me!!   ");
+console.log("   Let's check how well do you kno me!!  ");
 console.log("=========================================");
 
 var highestScore = [
