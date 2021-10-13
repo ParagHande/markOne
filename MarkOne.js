@@ -37,12 +37,12 @@ function welcome (){
 }
 
 var questionAnswer = [
-    {question: "What is her Name ? : ", answer: "Parag"}, 
-    {question: "What is her date of year : ", answer: "1995"},
-    {question: "What is her Hobby ? , (Painting or Singing): ", answer: "Painting"}, 
+    {question: "What is his Name ? : ", answer: "Parag"}, 
+    {question: "What is his date of year : ", answer: "1995"},
+    {question: "What is his Hobby ? , (Painting or Singing): ", answer: "Painting"}, 
     {question: "What type of song he listen ? , (old or new) : ", answer: "Old"}, 
-    {question: "What is her Weakness ?, (Laziness or Forgetting things) : ", answer: "Laziness"},
-    {question: "What is her strength ?, (Creative or Will Power) : ", answer: "Creative"}
+    {question: "What is his Weakness ?, (Laziness or Forgetting things) : ", answer: "Laziness"},
+    {question: "What is his strength ?, (Creative or Will Power) : ", answer: "Creative"}
     ];
 
 
